@@ -1,2 +1,0 @@
-# gateways
-images
